@@ -7,8 +7,8 @@
 
 <br><hr>
 <p align="center">
-<a href="https://t.me/simhacksoftware" > <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white"> </a></p>
+<a href="https://t.me/alendok" > <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=Telegram&logoColor=white"> </a></p>
 <hr>
 <p align="center">
-<b>TELEGRAM: @ALENDOK ></p>
+<b>TELEGRAM: @ALENDOK </p>
 
